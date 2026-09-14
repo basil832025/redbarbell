@@ -398,6 +398,17 @@ const postData = async (url = "", data = {}) => {
         Виберіть стать.
     </div>
 </div>
+<div class="col-12">
+    <label for="leadSource" class="form-label">Звідки ви про нас дізналися? *</label>
+    <select class="form-select" id="leadSource" name="form[lead_source]" required>
+        <option value="">Виберіть варіант</option>
+        <option value="nearby">Побачили зал / живете поруч</option>
+        <option value="social">Соцмережі</option>
+        <option value="city_ads">Реклама у місті (банери, ліфти)</option>
+        <option value="mall_radio">Реклама у ТЦ / радіо</option>
+    </select>
+    <div class="invalid-feedback">Виберіть, звідки ви про нас дізналися.</div>
+</div>
         <div class="col-sm-4" >
                     <label for="type_document" class="form-label">Тип документу *</label>
                     <select class="form-select" id="type_document" name="form[type_doc]" required>
@@ -435,9 +446,9 @@ const postData = async (url = "", data = {}) => {
             $content_html.='<option  value="'.$club['id'].'">'.$club['name'].'</option>';
         }
         $content_html.='</select>
-    <div class="invalid-feedback">
-        Виберіть клуб.
-    </div>
+<div class="invalid-feedback">
+    Виберіть клуб.
+</div>
 </div>
 <div class="form-check mt-3">
   <input class="form-check-input" type="checkbox" id="agreementCheck" required>

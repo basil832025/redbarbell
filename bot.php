@@ -7,7 +7,6 @@ date_default_timezone_set('Europe/Kiev');
 include_once 'config.php';
 include_once 'func/func.php';
 
-//slog('tyty1');
 include_once 'func/mysql.php';
 include_once 'func/mysql_class.php';
 //slog('tyty2');

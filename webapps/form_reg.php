@@ -73,6 +73,18 @@ $chnub =false;
                 </div>
             </div>
 
+            <div class="col-12">
+                <label for="leadSource" class="form-label">Звідки ви про нас дізналися? *</label>
+                <select class="form-select" id="leadSource" name="form[lead_source]" required>
+                    <option value="">Виберіть варіант</option>
+                    <option value="nearby">Побачили зал / живете поруч</option>
+                    <option value="social">Соцмережі</option>
+                    <option value="city_ads">Реклама у місті (банери, ліфти)</option>
+                    <option value="mall_radio">Реклама у ТЦ / радіо</option>
+                </select>
+                <div class="invalid-feedback">Виберіть, звідки ви про нас дізналися.</div>
+            </div>
+
     </div>
 </form>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>

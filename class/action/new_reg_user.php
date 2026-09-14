@@ -17,6 +17,13 @@ class new_reg_user extends ActionModule
             $form = $this->arrDataAnswer['form'];
             slog('form_new_reg_user');
             slog($form);
+            $allowedLeadSources = ['nearby', 'social', 'city_ads', 'mall_radio'];
+            $leadSource = $form['lead_source'] ?? '';
+            if (!in_array($leadSource, $allowedLeadSources, true)) {
+                header('Content-Type: application/json');
+                echo json_encode(['status' => 'error', 'mess' => 'Виберіть, звідки ви про нас дізналися.'], JSON_UNESCAPED_UNICODE);
+                exit;
+            }
             $dop_phone='';
             // если у челоаек был не стандарний номер и он передал правильный
             if (!empty($form['phone']) ){
@@ -55,6 +62,7 @@ class new_reg_user extends ActionModule
          lastname="'.$form['lastname'].'",
          sex="'.$form['sex'].'",
          club="'.$form['club'].'",
+         lead_source="'.$leadSource.'",
          
          '.$date_birtday.$phone_.'
         

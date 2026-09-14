@@ -108,7 +108,8 @@ class ButtonModule
 
                    ['text' => "Чати з клієнтами 📩 ", "web_app"=> ["url"=> URL."webapps/web.php?action=chats_clients&club=".SystemClass::$club.'&chat_id='.SystemClass::$chatId] ],
                    ['text' => "Розсилка 📢 ", "web_app"=> ["url"=> URL."webapps/web.php?action=send_mess&club=".SystemClass::$club.'&chat_id='.SystemClass::$chatId] ],
-                  [ 'text' => "Знайти клієнта 🔍", "web_app"=> ["url"=> URL."webapps/web.php?action=work_acc&admin=".SystemClass::$admin]],
+                   [ 'text' => "Знайти клієнта 🔍", "web_app"=> ["url"=> URL."webapps/web.php?action=work_acc&admin=".SystemClass::$admin]],
+                   [ 'text' => "Звіти 📊", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".SystemClass::$ip_club.'&admin='.SystemClass::$admin.'&chat_id='.SystemClass::$chatId]],
 
 
               ),
@@ -148,7 +149,7 @@ class ButtonModule
               ),
               array(
 
-                  [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin]]
+                  [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin.'&chat_id='.SystemClass::$chatId]]
 
               ),
 
@@ -180,7 +181,7 @@ class ButtonModule
 
                   [ 'text' => "Знайти клієнта \xE2\x84\xB9", "web_app"=> ["url"=> URL."webapps/web.php?action=work_acc&admin=".SystemClass::$admin]],
                   [  'text' => "Налаштування \xF0\x9F\x91\xAE"],
-                  [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&admin=".SystemClass::$admin]]
+                  [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&admin=".SystemClass::$admin.'&chat_id='.SystemClass::$chatId]]
 
               ),
 
@@ -209,7 +210,7 @@ class ButtonModule
               ),
               array(
 
-                    [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin]]
+                    [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin.'&chat_id='.SystemClass::$chatId]]
 
               ),
 
@@ -238,7 +239,7 @@ class ButtonModule
               ),
               array(
 
-                    [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin.'&sotr='.SystemClass::$activeSotr]]
+                    [   'text' => "Звіти \xF0\x9F\x93\x8A", "web_app"=> ["url"=> URL."webapps/web.php?action=reports&ip_club=".actionmodule::$ip_club."&admin=".SystemClass::$admin.'&sotr='.SystemClass::$activeSotr.'&chat_id='.SystemClass::$chatId]]
 
               ),
 

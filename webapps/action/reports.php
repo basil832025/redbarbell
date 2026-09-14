@@ -4,12 +4,14 @@ class reports
     public $admin;
     public $ip_club;
     public $sotr;
+    public $chat_id;
     public $is_phone_ukr ;
     function __construct()
     {
         $this->admin = $_GET['admin'] ?? $_POST['admin'] ?? null;
         $this->ip_club = $_GET['ip_club'] ?? $_POST['ip_club'] ?? null;
         $this->sotr = $_GET['sotr'] ?? $_POST['sotr'] ?? null;
+        $this->chat_id = $_GET['chat_id'] ?? $_POST['chat_id'] ?? null;
         wlog('reports1');
         wlog($_GET);
     }
@@ -107,6 +109,21 @@ class reports
     <div class="col">
       <a href="'.URL.'webapps/web.php?action=report_bot_users&ip_club='.$ip_club.'&admin='.$this->admin.'" class="btn btn-outline-info w-100 text-start">
         🤖 Звіт про активність користувачів у боті
+      </a>
+    </div>';
+
+        $report_access = '';
+        if (!empty($this->chat_id) && preg_match('/^\d+$/', (string)$this->chat_id)) {
+            $report_user = db()->selectOne('spr_users', 'chat_id = :chat_id', ['chat_id' => $this->chat_id]);
+            if ($report_user && (int)$report_user['admin'] === (int)$this->admin) {
+                $report_access = hash_hmac('sha256', (string)$this->chat_id, SECRET_KEY);
+            }
+        }
+        if ($this->admin < 5 && $report_access !== '')
+            $html .='
+    <div class="col">
+      <a href="'.URL.'webapps/web.php?action=report_lead_sources&ip_club='.$ip_club.'&admin='.$this->admin.'&chat_id='.$this->chat_id.'&access='.$report_access.'" class="btn btn-outline-primary w-100 text-start">
+        📣 Звіт «Звідки клієнти дізналися про нас»
       </a>
     </div>';
 
