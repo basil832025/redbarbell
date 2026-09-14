@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS vacancy_resumes (
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    chat_id BIGINT NULL,
+    user_id INT UNSIGNED NULL,
+    phone VARCHAR(32) NULL,
+    telegram VARCHAR(255) NULL,
+    fio VARCHAR(255) NOT NULL,
+    instagram VARCHAR(255) NULL,
+    comment TEXT NULL,
+    about TEXT NULL,
+    vacancy_id BIGINT UNSIGNED NOT NULL,
+    vacancy_title VARCHAR(255) NOT NULL,
+    vacancy_type VARCHAR(255) NULL,
+    location VARCHAR(255) NULL,
+    resume_path VARCHAR(500) NOT NULL,
+    resume_original_name VARCHAR(255) NOT NULL,
+    created_at DATETIME NOT NULL,
+    PRIMARY KEY (id),
+    KEY idx_vacancy_id (vacancy_id),
+    KEY idx_chat_id (chat_id),
+    KEY idx_created_at (created_at)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

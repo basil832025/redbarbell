@@ -1,0 +1,181 @@
+[2026-01-01 02:50:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=12911 
+and u.club=(select id from spr_clubs where ip_club="178.158.212.173") limit 1
+[2026-01-01 02:50:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2026-01-01 02:50:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 12911
+    [command] => get_ind_history
+)
+
+[2026-01-01 02:50:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=178.158.212.173
+[2026-01-01 12:17:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) Нет связи с сервером
+[2026-01-01 12:19:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) Нет связи с сервером
+[2026-01-01 12:19:07] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) Нет связи с сервером
+[2026-01-01 12:56:37] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 12:56:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 12:56:48] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 13:11:21] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1169717563"
+and u.club=4 limit 1
+[2026-01-01 13:11:21] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 11992
+    [chatadmin] => 7382441954
+    [who_user_write] => 1169717563
+    [chatid] => 1169717563
+    [ip_club] => 212.26.139.90
+)
+
+[2026-01-01 13:12:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1169717563"
+and u.club=4 limit 1
+[2026-01-01 13:12:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 11992
+    [chatadmin] => 7382441954
+    [who_user_write] => 1169717563
+    [chatid] => 1169717563
+    [ip_club] => 212.26.139.90
+)
+
+[2026-01-01 13:28:10] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13044 
+and u.club=(select id from spr_clubs where ip_club="178.151.119.180") limit 1
+[2026-01-01 13:28:10] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2026-01-01 13:28:10] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13044
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-01-01 13:28:10] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=178.151.119.180
+[2026-01-01 14:40:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="8174590004"
+and u.club=2 limit 1
+[2026-01-01 14:40:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 2
+    [acc] => 12106
+    [chatadmin] => 1847184190
+    [who_user_write] => 8174590004
+    [chatid] => 8174590004
+    [ip_club] => 178.151.119.180
+)
+
+[2026-01-01 15:00:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=10972 
+and u.club=(select id from spr_clubs where ip_club="178.158.212.173") limit 1
+[2026-01-01 15:00:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2026-01-01 15:00:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 10972
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-01-01 15:00:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=178.158.212.173
+[2026-01-01 15:33:34] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="8174590004"
+and u.club=2 limit 1
+[2026-01-01 15:33:34] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 2
+    [acc] => 12106
+    [chatadmin] => 1847184190
+    [who_user_write] => 8174590004
+    [chatid] => 8174590004
+    [ip_club] => 178.151.119.180
+)
+
+[2026-01-01 15:46:00] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="8174590004"
+and u.club=2 limit 1
+[2026-01-01 15:46:00] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 2
+    [acc] => 12106
+    [chatadmin] => 1847184190
+    [who_user_write] => 8174590004
+    [chatid] => 8174590004
+    [ip_club] => 178.151.119.180
+)
+
+[2026-01-01 18:11:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13121 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2026-01-01 18:11:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2026-01-01 18:11:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13121
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-01-01 18:11:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=212.26.139.90
+[2026-01-01 18:17:09] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 18:18:51] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 18:49:55] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13140 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2026-01-01 18:49:55] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:17) hist_grp
+[2026-01-01 18:49:55] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 13140
+    [command] => get_grp_history
+)
+
+[2026-01-01 18:49:55] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:109) ip=212.26.139.90
+[2026-01-01 18:50:08] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13140 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2026-01-01 18:50:08] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:17) hist_grp
+[2026-01-01 18:50:08] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 13140
+    [command] => get_grp_history
+)
+
+[2026-01-01 18:50:08] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:109) ip=212.26.139.90
+[2026-01-01 18:56:14] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=15093 
+and u.club=(select id from spr_clubs where ip_club="178.158.212.173") limit 1
+[2026-01-01 18:56:14] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2026-01-01 18:56:14] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 15093
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-01-01 18:56:14] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=178.158.212.173
+[2026-01-01 18:58:11] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) Нет связи с сервером
+[2026-01-01 20:19:37] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) Нет связи с сервером
+[2026-01-01 20:55:32] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13111 
+and u.club=(select id from spr_clubs where ip_club="178.151.119.180") limit 1
+[2026-01-01 20:55:32] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2026-01-01 20:55:32] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13111
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-01-01 20:55:32] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=178.151.119.180
+[2026-01-01 22:06:40] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-01-01 23:22:12] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="8174590004"
+and u.club=2 limit 1
+[2026-01-01 23:22:12] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 2
+    [acc] => 12106
+    [chatadmin] => 1847184190
+    [who_user_write] => 8174590004
+    [chatid] => 8174590004
+    [ip_club] => 178.151.119.180
+)
+

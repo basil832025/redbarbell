@@ -1,0 +1,241 @@
+:root {
+    --send-bg: #0B93F6;
+    --send-color: white;
+    --receive-bg: #E5E5EA;
+    --receive-text: black;
+    --page-background: white;
+}
+.chat-box {
+    border: 1px solid #ddd;
+    border-radius: 12px 12px 0 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    background: white;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+
+}
+html, body {
+    height: 100%;
+}
+.unread {
+    border: 2px solid #ffc107;
+}
+.chat-container {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+
+    display: flex;
+    flex-direction: column;
+    /* padding-bottom: 80px;  або трохи більше за висоту input-блоку */
+    /* додано для візуального поділу */
+    background: #fff;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.08);
+    border-top: 1px solid #ddd;
+    min-height: 200px;
+    overflow-y: auto;
+}
+.message time {
+    display: block;
+    font-size: 10px;
+    color: #666;
+    margin-bottom: 4px;
+    position: absolute;
+    top: -20px;
+}
+.message {
+    margin: 10px 0;
+
+    max-width: 70%;
+    line-height: 24px;
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 25px;
+&:before, &:after {
+               content: "";
+               position: absolute;
+               bottom: 0;
+               height: 25px;
+           }
+}
+
+.user1 {
+    color: var(--send-color);
+    background: var(--send-bg);
+    align-self: flex-end;
+&:before {
+     right: -7px;
+     width: 20px;
+     background-color: var(--send-bg);
+     border-bottom-left-radius: 16px 14px;
+ }
+
+&:after {
+     right: -26px;
+     width: 26px;
+     background-color: var(--page-background);
+     border-bottom-left-radius: 10px;
+ }
+}
+
+.user2 {
+    background: var(--receive-bg);
+    color: black;
+    align-self: flex-start;
+&:before {
+     left: -7px;
+     width: 20px;
+     background-color: var(--receive-bg);
+     border-bottom-right-radius: 16px 14px;
+ }
+
+&:after {
+     left: -26px;
+     width: 26px;
+     background-color: var(--page-background);
+     border-bottom-right-radius: 10px;
+ }
+}
+
+.input-container {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    background: #fff;
+    position: sticky;
+    bottom: 0;
+}
+
+.input-container textarea {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    resize: none;
+}
+
+.input-container button {
+    margin-left: 10px;
+    padding: 0 12px;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-container button svg {
+    width: 20px;
+    height: 20px;
+    fill: white;
+}
+.emoji-toggle {
+    background: none;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.emoji-picker {
+    position: absolute;
+    bottom: 60px;
+    left: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 8px;
+    border-radius: 8px;
+    display: none;
+    flex-wrap: wrap;
+    gap: 6px;
+    font-size: 20px;
+    z-index: 100;
+    max-width: 280px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.emoji-toggle {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    font-size: 18px;
+    background: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+    transition: background 0.2s ease;
+}
+
+.emoji-toggle:hover {
+    background: #e0e0e0;
+}
+.meta-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    margin-bottom: 4px;
+    opacity: 0.8;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.time {
+    font-size: 10px;
+    color: #888;
+}
+
+.user1 .username {
+    color: black;
+}
+
+.user2 .username {
+    color: black;
+}
+
+ .timestamp.user2 {
+   color: black;
+}
+.user2 .timestamp {
+
+    text-align: left;
+}
+.message.unread {
+    border: 2px solid #ffc107;
+    box-shadow: 0 0 5px rgba(255, 193, 7, 0.5);
+
+}
+.timestamp {
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.6);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user2 .timestamp {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.status {
+    margin-left: 5px;
+    font-size: 12px;
+    opacity: 0.8;
+}

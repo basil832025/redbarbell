@@ -1,0 +1,29 @@
+<?php
+//namespace action;
+//s('FILE++++++++++++++++++++++++++ActionMyZapis_TRAIT');
+class callback extends ActionModule
+{
+    function __construct (){
+
+    }
+    function init (){
+        slog('callback');
+        // удаляем предыдущее сообщения
+        actionmodule::DelLastOper('callback');
+        $inline_button1 = array("text"=>'Почати чат з адміном клубу', "web_app"=> ["url"=> URL."webapps/web.php?action=chart&club=".SystemClass::$club."&acc=".ActionModule::$UserInfo['active_account'].'&chatadmin='.SystemClass::$chat_admin.'&who_user_write='.SystemClass::$chatId.'&chatid='.SystemClass::$chatId.'&ip_club='.ActionModule::$ip_club]);
+        $inline_button2 = array("text"=>'Залишити відгук', "web_app"=> ["url"=> URL."webapps/web.php?action=vidguk&club=".SystemClass::$club."&acc=".ActionModule::$UserInfo['active_account'].'&ip_club='.ActionModule::$ip_club]);
+
+
+        $inline_keyboard=array();
+        $inline_keyboard[][] = $inline_button1;
+        $inline_keyboard[][] = $inline_button2;
+
+        $resultReturn= actionmodule::sendMessText('Оберіть варіант:',$inline_keyboard);
+        // добавление лога в бд
+        actionmodule::setLastOper('callback','OK');
+        // добавляем mess_id по последнему отправленному пользователем сообщению, чтобы потом удалить его вместе с командой
+        actionmodule::setLastOperReturn($resultReturn['result']['message_id']);
+
+    }
+
+}

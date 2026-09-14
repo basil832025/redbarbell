@@ -1,0 +1,6080 @@
+[2026-05-10 00:07:58] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 00:08:07] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 09.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 697814
+)
+
+[2026-05-10 01:07:50] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 01:07:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 01:08:00] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 01:08:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:40:40] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:40:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:41:00] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:41:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:41:07] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 05:41:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 07:35:42] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 07:49:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 08:26:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 08:26:32] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 09.05.2026
+    [date_to] => 09.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => pt
+    [sotr] => 0718
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:27:07] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_fitness_zapis.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => ajax_fitness_zapis
+    [dat] => 11.05.2026
+    [acc] => 13577
+    [trenid] => 818456
+    [ost_all] => 100
+    [ip_club] => 212.26.139.90
+    [acctozapis] => 0
+    [time_from] => 20:00
+)
+
+[2026-05-10 08:29:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 12752
+    [command] => get_ind_history
+)
+
+[2026-05-10 08:29:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.151.119.180
+[2026-05-10 08:30:00] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 12752
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 08:30:00] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.151.119.180
+[2026-05-10 08:36:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 08:36:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 09.05.2026
+    [date_to] => 09.05.2026
+    [ip_club] => 178.158.212.173
+    [podr] => all
+    [sotr] => 0112
+)
+
+[2026-05-10 08:57:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 08:57:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 08:57:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 09:06:18] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 09:06:18] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 09:06:18] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 09:26:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 09:27:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 697814
+)
+
+[2026-05-10 09:42:11] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 09:42:11] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 09:42:11] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:02:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 212.26.139.90
+)
+
+[2026-05-10 10:02:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2357
+            [NAME] => Ілюк Діана
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 697814
+            [NAME] => Горева Анастасія
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Йова Катерина
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03354
+            [NAME] => Колесник Богдан
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2564
+            [NAME] => Кулаковський Сергій
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Лазаренко Ліна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2452
+            [NAME] => Лешковят Наталія
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0235
+            [NAME] => Лучко Кирил
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Мамедова Ельнара
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03336
+            [NAME] => Мельниченко Надія
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8760
+            [NAME] => Москалець Тетяна
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 007989
+            [NAME] => Підгурська Влада
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03337
+            [NAME] => Погорєлов Євгеній
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03589
+            [NAME] => Присняк Владислав
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03352
+            [NAME] => Рибак Роман
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0334
+            [NAME] => Самусенко Альона
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03339
+            [NAME] => Стрілець Данило
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 7895
+            [NAME] => Тулаінов Андрій
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Худоба Ігор
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03342
+            [NAME] => Шматко Ярослав
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8987
+            [NAME] => Яковенко Ганна
+        )
+
+)
+
+[2026-05-10 10:04:18] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 212.26.139.90
+)
+
+[2026-05-10 10:04:18] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2357
+            [NAME] => Ілюк Діана
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 697814
+            [NAME] => Горева Анастасія
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Йова Катерина
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03354
+            [NAME] => Колесник Богдан
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2564
+            [NAME] => Кулаковський Сергій
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Лазаренко Ліна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2452
+            [NAME] => Лешковят Наталія
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0235
+            [NAME] => Лучко Кирил
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Мамедова Ельнара
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03336
+            [NAME] => Мельниченко Надія
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8760
+            [NAME] => Москалець Тетяна
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 007989
+            [NAME] => Підгурська Влада
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03337
+            [NAME] => Погорєлов Євгеній
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03589
+            [NAME] => Присняк Владислав
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03352
+            [NAME] => Рибак Роман
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0334
+            [NAME] => Самусенко Альона
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03339
+            [NAME] => Стрілець Данило
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 7895
+            [NAME] => Тулаінов Андрій
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Худоба Ігор
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03342
+            [NAME] => Шматко Ярослав
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8987
+            [NAME] => Яковенко Ганна
+        )
+
+)
+
+[2026-05-10 10:05:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 10:05:40] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0710
+)
+
+[2026-05-10 10:16:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 10:16:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:16:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:17:34] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 10:17:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 08.05.2026
+    [date_to] => 08.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0302
+)
+
+[2026-05-10 10:18:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 09.05.2026
+    [date_to] => 09.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0302
+)
+
+[2026-05-10 10:18:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0302
+)
+
+[2026-05-10 10:43:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 10:43:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:43:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:50:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 10:50:57] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0302
+)
+
+[2026-05-10 10:52:01] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 848471
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 846640
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 10:52:01] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 848471
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:01] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 846640
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 878310
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Base fitness (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 869126
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 876014
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 873718
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 871422
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 878310
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Base fitness (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 869126
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 876014
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 873718
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 871422
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 857503
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 857711
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => F.B.T. (Fat burn traning)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 857295
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 10:52:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857503
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857711
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => F.B.T. (Fat burn traning)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 10:52:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857295
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:37:12] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 11:37:19] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 31.05.2026
+    [ip_club] => 109.86.110.220
+    [podr] => all
+    [sotr] => 0002
+)
+
+[2026-05-10 11:38:55] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14178
+    [command] => get_ind_history
+)
+
+[2026-05-10 11:38:55] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.151.119.180
+[2026-05-10 11:39:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 11:39:42] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 31.05.2026
+    [ip_club] => 109.86.110.220
+    [podr] => all
+    [sotr] => 0002
+)
+
+[2026-05-10 11:51:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 14369
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 11:51:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=212.26.139.90
+[2026-05-10 11:51:40] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14369
+    [command] => get_grp_history
+)
+
+[2026-05-10 11:51:40] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=212.26.139.90
+[2026-05-10 11:51:45] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14369
+    [command] => get_ind_history
+)
+
+[2026-05-10 11:51:45] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=212.26.139.90
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 810350
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Functional cardio
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 810506
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cardio&Body weight
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 810662
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Дзюдо kids 
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 810818
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Дзюдо teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 810974
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Step Drive
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 811130
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 824685
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 810350
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Functional cardio
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 810506
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cardio&Body weight
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 810662
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Дзюдо kids 
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 810818
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Дзюдо teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 810974
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Step Drive
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 811130
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:52:59] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 824685
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 823906
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 823594
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 823282
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 822502
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 823438
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 822658
+            [TIME_FROM] => 19:40
+            [TIME_TO] => 20:40               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Акробатика Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 822970
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 822814
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 823906
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 823594
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 823282
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 822502
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 823438
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 822658
+    [TIME_FROM] => 19:40
+    [TIME_TO] => 20:40               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Акробатика Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 822970
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 822814
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:53:38] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_fitness_zapis.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => ajax_fitness_zapis
+    [dat] => 11.05.2026
+    [acc] => 14369
+    [trenid] => 818766
+    [ost_all] => 100
+    [ip_club] => 212.26.139.90
+    [acctozapis] => 0
+    [time_from] => 20:00
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 14369
+            [CNTTRAN] => 2
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 14369
+    [CNTTRAN] => 2
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:54:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:55:33] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 11:55:33] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 11:55:33] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:37] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 840980
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 840671
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 840568
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 840259
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 840362
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 840465
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross Activity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 840877
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 840774
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Functional Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840980
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840671
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840568
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840259
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840362
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840465
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross Activity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840877
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840774
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Functional Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 835975
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Body Training
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 834148
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Pilates
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 835453
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Кiкбоксинг
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 834670
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Body Training
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 834409
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Кругове тренування
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 834931
+            [TIME_FROM] => 19:30
+            [TIME_TO] => 20:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Акробатика Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 835714
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 835192
+            [TIME_FROM] => 20:30
+            [TIME_TO] => 21:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Акробатика
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 835975
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Body Training
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 834148
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Pilates
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 835453
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Кiкбоксинг
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 834670
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Body Training
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 834409
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Кругове тренування
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 834931
+    [TIME_FROM] => 19:30
+    [TIME_TO] => 20:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Акробатика Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 835714
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 12:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 835192
+    [TIME_FROM] => 20:30
+    [TIME_TO] => 21:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Акробатика
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:00:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 13:00:41] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.05.2026
+    [date_to] => 31.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 007989
+)
+
+[2026-05-10 13:17:15] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 13:18:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 13:18:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 178.151.119.180
+    [podr] => pt
+    [sotr] => 0718
+)
+
+[2026-05-10 13:38:01] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 840980
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 840671
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 840568
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 840259
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 840362
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 840465
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross Activity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 840877
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 840774
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Functional Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840980
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840671
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840568
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840259
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840362
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840465
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross Activity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840877
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 13:38:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840774
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Functional Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 14:09:39] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 14:09:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => pt
+    [sotr] => 03352
+)
+
+[2026-05-10 14:20:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 13412
+    [command] => get_grp_history
+)
+
+[2026-05-10 14:20:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=193.194.107.2
+[2026-05-10 14:20:58] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 13378
+    [command] => get_grp_history
+)
+
+[2026-05-10 14:20:58] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=193.194.107.2
+[2026-05-10 14:21:13] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 13412
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 14:21:13] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=193.194.107.2
+[2026-05-10 14:40:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 14:40:21] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 04.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 193.194.107.2
+    [podr] => all
+    [sotr] => 0307
+)
+
+[2026-05-10 14:50:32] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 14:50:37] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 03589
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 675248
+            [TIME_FROM] =>  9:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 675560
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Morning Functional
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 675404
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 675872
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Superhero Workout
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 675716
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Evening Functional
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 674624
+            [TIME_FROM] => 19:30
+            [TIME_TO] => 20:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 674780
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity Pro
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 674936
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс.
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [8] => Array
+        (
+            [KOD] => 675092
+            [TIME_FROM] => 20:30
+            [TIME_TO] => 21:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675248
+    [TIME_FROM] =>  9:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675560
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Morning Functional
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675404
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675872
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Superhero Workout
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675716
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Evening Functional
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 674624
+    [TIME_FROM] => 19:30
+    [TIME_TO] => 20:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 674780
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity Pro
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 674936
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс.
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:25:02] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 675092
+    [TIME_FROM] => 20:30
+    [TIME_TO] => 21:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:31:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.151.119.180
+)
+
+[2026-05-10 15:31:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Єфремова Олександра
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Андрияш Анна
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0399
+            [NAME] => Біліч Лариса
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Барсегян Анна
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Вєтрова Катя
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Виноградов Александр
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Войтюк Мар'яна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Гармаш Владимир
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Дворніков Дмитро 
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Демченко Александра
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Дубинчук Наталья
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Елецкая Светлана
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Колесник Богдан
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Оруджева Юлія
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Остафи Денис
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Проломов Данил
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Романовская Наталья
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0903
+            [NAME] => Сванідзе Юлія 
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Солянов Владислав
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Тищенко Ольга
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Фесенко Ира
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0103
+            [NAME] => Шевелько Руслан
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шевчук Вікторія
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2026-05-10 15:33:07] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 15:33:11] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => pt
+    [sotr] => 03352
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 840980
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 840671
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 840568
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 840259
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 840362
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 840465
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross Activity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 840877
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 840774
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Functional Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840980
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840671
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840568
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840259
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840362
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840465
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross Activity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840877
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:30] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840774
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Functional Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 15:50:38] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_fitness_zapis.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => ajax_fitness_zapis
+    [dat] => 11.05.2026
+    [acc] => 11299
+    [trenid] => 840980
+    [ost_all] => 100
+    [ip_club] => 178.151.119.180
+    [acctozapis] => 0
+    [time_from] => 08:00
+)
+
+[2026-05-10 16:06:21] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/my_zapis.php:114) 
+[2026-05-10 16:06:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/my_zapis.php:114) 
+[2026-05-10 16:06:41] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 15622
+    [command] => get_ind_history
+)
+
+[2026-05-10 16:06:41] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.158.212.173
+[2026-05-10 16:07:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 15622
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 16:07:06] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.158.212.173
+[2026-05-10 16:47:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 13240
+    [command] => get_ind_history
+)
+
+[2026-05-10 16:47:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.151.119.180
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 817748
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 817020
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Total Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 816812
+            [TIME_FROM] => 14:00
+            [TIME_TO] => 15:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817644
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 817228
+            [TIME_FROM] => 18:30
+            [TIME_TO] => 19:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Pilates
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 817436
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 816916
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 817332
+            [TIME_FROM] => 19:30
+            [TIME_TO] => 20:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => TRX
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [8] => Array
+        (
+            [KOD] => 817124
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [9] => Array
+        (
+            [KOD] => 817540
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817748
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817020
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Total Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 816812
+    [TIME_FROM] => 14:00
+    [TIME_TO] => 15:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817644
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817228
+    [TIME_FROM] => 18:30
+    [TIME_TO] => 19:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Pilates
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817436
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 816916
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817332
+    [TIME_FROM] => 19:30
+    [TIME_TO] => 20:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => TRX
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817124
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:04:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817540
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 814201
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 814252
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Total Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 814303
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 814150
+            [TIME_FROM] => 12:30
+            [TIME_TO] => 13:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:05:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 814201
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 814252
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Total Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 814303
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 814150
+    [TIME_FROM] => 12:30
+    [TIME_TO] => 13:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:21] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:05:21] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:05:21] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:10:03] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/my_zapis.php:114) 
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 0
+            [CNTTRAN] => 2
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 0
+    [CNTTRAN] => 2
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:20:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:21:01] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_fitness_zapis.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => ajax_fitness_zapis
+    [dat] => 11.05.2026
+    [acc] => 13072
+    [trenid] => 818611
+    [ost_all] => 100
+    [ip_club] => 212.26.139.90
+    [acctozapis] => 0
+    [time_from] => 10:00
+)
+
+[2026-05-10 17:36:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 803686
+            [TIME_FROM] => 11:00
+            [TIME_TO] => 12:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 803737
+            [TIME_FROM] => 12:00
+            [TIME_TO] => 13:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 3
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:36:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803686
+    [TIME_FROM] => 11:00
+    [TIME_TO] => 12:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 803737
+    [TIME_FROM] => 12:00
+    [TIME_TO] => 13:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 3
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 817748
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 817020
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Total Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 816812
+            [TIME_FROM] => 14:00
+            [TIME_TO] => 15:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817644
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 817228
+            [TIME_FROM] => 18:30
+            [TIME_TO] => 19:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Pilates
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 817436
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 816916
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 817332
+            [TIME_FROM] => 19:30
+            [TIME_TO] => 20:30               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => TRX
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [8] => Array
+        (
+            [KOD] => 817124
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [9] => Array
+        (
+            [KOD] => 817540
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817748
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817020
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Total Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 816812
+    [TIME_FROM] => 14:00
+    [TIME_TO] => 15:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817644
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817228
+    [TIME_FROM] => 18:30
+    [TIME_TO] => 19:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Pilates
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817436
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 816916
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817332
+    [TIME_FROM] => 19:30
+    [TIME_TO] => 20:30               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => TRX
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817124
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:36:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817540
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 17:39:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 14814
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 17:39:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.158.212.173
+[2026-05-10 17:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14814
+    [command] => get_ind_history
+)
+
+[2026-05-10 17:39:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.158.212.173
+[2026-05-10 17:51:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 18:15:41] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 7689
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 18:15:41] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.151.119.180
+[2026-05-10 18:20:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 11523
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 18:20:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=212.26.139.90
+[2026-05-10 18:38:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14990
+    [command] => get_ind_history
+)
+
+[2026-05-10 18:38:56] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.158.212.173
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 878310
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Base fitness (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 869126
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 876014
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 873718
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 871422
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 878310
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Base fitness (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 869126
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 876014
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 873718
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:27] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 871422
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 857503
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 857711
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => F.B.T. (Fat burn traning)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 857295
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:43:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857503
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857711
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => F.B.T. (Fat burn traning)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857295
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 881195
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Tabata (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 880730
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 881040
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 880885
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 880575
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 881195
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Tabata (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 880730
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 881040
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 880885
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:43:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 880575
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 854396
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 854813
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Booty Sculpt
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 853979
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:44:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 854396
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 854813
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Booty Sculpt
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 853979
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 878312
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Base fitness (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 869128
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 876016
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 873720
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 871424
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 878312
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Base fitness (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 869128
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 876016
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 873720
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 871424
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:14] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 881350
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => F.B.T. (Fat burn traning)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:44:14] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 881350
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => F.B.T. (Fat burn traning)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 881350
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => F.B.T. (Fat burn traning)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 18:44:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 881350
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => F.B.T. (Fat burn traning)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 18:44:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 507
+    [command] => get_grp_history
+)
+
+[2026-05-10 18:44:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=109.86.110.220
+[2026-05-10 18:44:42] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 507
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 18:44:42] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=109.86.110.220
+[2026-05-10 18:45:15] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/my_zapis.php:114) 
+[2026-05-10 19:09:26] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 212.26.139.90
+)
+
+[2026-05-10 19:09:26] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2357
+            [NAME] => Ілюк Діана
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 697814
+            [NAME] => Горева Анастасія
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Йова Катерина
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03354
+            [NAME] => Колесник Богдан
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2564
+            [NAME] => Кулаковський Сергій
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Лазаренко Ліна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2452
+            [NAME] => Лешковят Наталія
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0235
+            [NAME] => Лучко Кирил
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Мамедова Ельнара
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03336
+            [NAME] => Мельниченко Надія
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8760
+            [NAME] => Москалець Тетяна
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 007989
+            [NAME] => Підгурська Влада
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03337
+            [NAME] => Погорєлов Євгеній
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03589
+            [NAME] => Присняк Владислав
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03352
+            [NAME] => Рибак Роман
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0334
+            [NAME] => Самусенко Альона
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03339
+            [NAME] => Стрілець Данило
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 7895
+            [NAME] => Тулаінов Андрій
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Худоба Ігор
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03342
+            [NAME] => Шматко Ярослав
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 8987
+            [NAME] => Яковенко Ганна
+        )
+
+)
+
+[2026-05-10 19:12:22] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 818301
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс(хлопці, з 13 років)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 818611
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 817836
+            [TIME_FROM] => 16:00
+            [TIME_TO] => 17:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 817991
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур teens
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 818146
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс/Кікбоксинг  Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 818766
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross activity
+            [ACC] => 14369
+            [CNTTRAN] => 2
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 818456
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818301
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс(хлопці, з 13 років)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818611
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817836
+    [TIME_FROM] => 16:00
+    [TIME_TO] => 17:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 817991
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур teens
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818146
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс/Кікбоксинг  Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818766
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross activity
+    [ACC] => 14369
+    [CNTTRAN] => 2
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:12:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 818456
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 19:24:35] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2026-05-10 19:24:43] [INFO] (/home/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 10.05.2026
+    [date_to] => 10.05.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 03589
+)
+
+[2026-05-10 19:57:11] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 19:57:26] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 14007
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 19:57:26] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.151.119.180
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 878310
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Base fitness (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 869126
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 876014
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 873718
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 871422
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 878310
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Base fitness (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 869126
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 876014
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 873718
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:14:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 871422
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:35:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14245
+    [command] => get_ind_history
+)
+
+[2026-05-10 20:35:04] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ind.php:117) ip=178.151.119.180
+[2026-05-10 20:35:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 14245
+    [command] => get_grp_history
+)
+
+[2026-05-10 20:35:08] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=178.151.119.180
+[2026-05-10 20:35:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:119) Array
+(
+    [acc] => 14245
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2026-05-10 20:35:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:120) ip=178.151.119.180
+[2026-05-10 20:47:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 848471
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 846640
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 20:47:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 848471
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:47] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 846640
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 878310
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Base fitness (Ліана)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 869126
+            [TIME_FROM] => 17:00
+            [TIME_TO] => 18:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 876014
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => B.F.B
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 873718
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Mind Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 871422
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => No Limits
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 878310
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Base fitness (Ліана)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 869126
+    [TIME_FROM] => 17:00
+    [TIME_TO] => 18:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 876014
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => B.F.B
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 873718
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Mind Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:49] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 871422
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => No Limits
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 857503
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Пілатес
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 857711
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => F.B.T. (Fat burn traning)
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 857295
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching & Mobility
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 20:47:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857503
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Пілатес
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857711
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => F.B.T. (Fat burn traning)
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:47:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 857295
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching & Mobility
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:51] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) 
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 840980
+            [TIME_FROM] => 08:00
+            [TIME_TO] => 09:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 1
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 840671
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 840259
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Степ-аеробіка
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 840362
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 840465
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Cross Activity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 840877
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Бокс
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 840774
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Functional Body
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840980
+    [TIME_FROM] => 08:00
+    [TIME_TO] => 09:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 1
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840671
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840259
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Степ-аеробіка
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840362
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840465
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Cross Activity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840877
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Бокс
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 20:57:53] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 840774
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Functional Body
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2026-05-10 22:35:10] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 22:35:14] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:23:13] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:23:17] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:23:20] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:23:24] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:23:52] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:38:36] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:38:42] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:38:45] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:38:48] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:47:58] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:53:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:116) Array
+(
+    [dbeg] => 10.02.2026
+    [dend] => today
+    [acc] => 13443
+    [command] => get_grp_history
+)
+
+[2026-05-10 23:53:09] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/hist_grp.php:117) ip=193.194.107.2
+[2026-05-10 23:53:28] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2026-05-10 23:53:36] [INFO] (/home/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером

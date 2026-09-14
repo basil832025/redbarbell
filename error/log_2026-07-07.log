@@ -1,0 +1,17 @@
+[2026-07-07 23:29:31] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:29) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:31:09] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:31:20] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:31:20] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:34:09] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:37:43] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$chat_id is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$clubSelect is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$accessLevel is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$SotrSelect is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$SotrSelectName is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$admin is deprecated
+[2026-07-07 23:38:21] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Creation of dynamic property update_prava::$spivrob is deprecated
+[2026-07-07 23:38:24] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:38:40] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:38:45] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-07-07 23:38:45] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated

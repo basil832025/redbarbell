@@ -1,0 +1,44 @@
+[2026-07-07 21:02:27] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] cron_action action=getrepeat
+[2026-07-07 21:02:27] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] getrepeat!!!
+[2026-07-07 21:02:27] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] select oper, club, cnt_poputok
+                from spr_cron_oper
+                where dat="2026-07-07"
+                  and time_start <= DATE_SUB(NOW(), INTERVAL 3 MINUTE)
+                  and repeat_oper=1
+                  and time_finish is null
+[2026-07-07 21:02:27] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] 
+            SELECT chat_id_klient, club, COUNT(*) AS unread_count,
+                   (select name from spr_acc where chat_id=chat_id_klient limit 1) as name
+            FROM bs_chats
+            WHERE is_read = 0 AND who_user_write = chat_id_klient AND is_notified = 0
+            GROUP BY chat_id_klient, club
+        
+[2026-07-07 21:02:27] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] 
+            SELECT chat_id_klient, club, COUNT(*) AS unread_count,
+                   (select name from spr_acc where chat_id=chat_id_klient limit 1) as name
+            FROM bs_chats
+            WHERE is_read = 0 AND who_user_write <> chat_id_klient AND is_notified = 0
+            GROUP BY chat_id_klient, club
+        
+[2026-07-07 21:09:37] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] cron_action action=getrepeat
+[2026-07-07 21:09:37] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] getrepeat!!!
+[2026-07-07 21:09:37] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] select oper, club, cnt_poputok
+                from spr_cron_oper
+                where dat="2026-07-07"
+                  and time_start <= DATE_SUB(NOW(), INTERVAL 3 MINUTE)
+                  and repeat_oper=1
+                  and time_finish is null
+[2026-07-07 21:09:37] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] 
+            SELECT chat_id_klient, club, COUNT(*) AS unread_count,
+                   (select name from spr_acc where chat_id=chat_id_klient limit 1) as name
+            FROM bs_chats
+            WHERE is_read = 0 AND who_user_write = chat_id_klient AND is_notified = 0
+            GROUP BY chat_id_klient, club
+        
+[2026-07-07 21:09:37] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:245) [chat_id: 0][phone: ] 
+            SELECT chat_id_klient, club, COUNT(*) AS unread_count,
+                   (select name from spr_acc where chat_id=chat_id_klient limit 1) as name
+            FROM bs_chats
+            WHERE is_read = 0 AND who_user_write <> chat_id_klient AND is_notified = 0
+            GROUP BY chat_id_klient, club
+        

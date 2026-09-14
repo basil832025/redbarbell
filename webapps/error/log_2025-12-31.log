@@ -1,0 +1,3243 @@
+[2025-12-31 00:39:12] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2025-12-31 00:39:22] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2025-12-31 00:39:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11865 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 00:39:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2025-12-31 00:39:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 11865
+    [command] => get_ind_history
+)
+
+[2025-12-31 00:39:31] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=212.26.139.90
+[2025-12-31 03:39:53] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13576 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 03:39:53] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 03:39:53] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13576
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 03:39:53] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=212.26.139.90
+[2025-12-31 07:05:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="478442412"
+and u.club=3 limit 1
+[2025-12-31 07:05:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 3
+    [admin] => 1
+    [who_user_write] => 5890364519
+    [chatid] => 478442412
+)
+
+[2025-12-31 08:07:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.151.119.180
+)
+
+[2025-12-31 08:07:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Андрияш Анна
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0903
+            [NAME] => Антонова Аліса
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Аштема Александр
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0399
+            [NAME] => Біліч Лариса
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Вєтрова Катя
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Виноградов Александр
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Войтюк Мар'яна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Гармаш Владимир
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Дворніков Дмитро 
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Демченко Александра
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Дубинчук Наталья
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Елецкая Светлана
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Колесник Богдан
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Оруджева Юлія
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Остафи Денис
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Проломов Данил
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Романовская Наталья
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Самусенко Алена
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Солянов Владислав
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Тищенко Ольга
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Фесенко Ира
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0103
+            [NAME] => Шевелько Руслан
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шевчук Вікторія
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 08:35:37] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 08:35:42] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 31.12.2025
+    [date_to] => 31.12.2025
+    [ip_club] => 193.194.107.2
+    [podr] => all
+    [sotr] => 0321
+)
+
+[2025-12-31 09:02:10] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 09:02:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 30.12.2025
+    [date_to] => 30.12.2025
+    [ip_club] => 193.194.107.2
+    [podr] => all
+    [sotr] => 192
+)
+
+[2025-12-31 09:43:53] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 09:43:58] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 28.12.2025
+    [date_to] => 28.12.2025
+    [ip_club] => 178.151.119.180
+    [podr] => all
+    [sotr] => 0325
+)
+
+[2025-12-31 09:46:09] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 212.26.139.90
+)
+
+[2025-12-31 09:46:09] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03341
+            [NAME] => Герасименко Оксана
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Дубошей Дарина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Йова Катерина
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03354
+            [NAME] => Колесник Богдан
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2564
+            [NAME] => Кулаковський Сергій
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Лазаренко Ліна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2452
+            [NAME] => Лешковят Наталія
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Мамедова Ельнара
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03336
+            [NAME] => Мельниченко Надія
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 007989
+            [NAME] => Підгурська Влада
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03337
+            [NAME] => Погорєлов Євгеній
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03589
+            [NAME] => Присняк Владислав
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03352
+            [NAME] => Рибак Роман
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0334
+            [NAME] => Самусенко Альона
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03339
+            [NAME] => Стрілець Данило
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Сунгатов Михайло
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Худоба Ігор
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03342
+            [NAME] => Шматко Ярослав
+        )
+
+)
+
+[2025-12-31 10:49:04] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 798015
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 798170
+            [TIME_FROM] => 14:00
+            [TIME_TO] => 15:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2025-12-31 10:49:04] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798015
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 10:49:04] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798170
+    [TIME_FROM] => 14:00
+    [TIME_TO] => 15:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 11:22:23] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 11:22:29] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.12.2025
+    [date_to] => 01.01.2026
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 007989
+)
+
+[2025-12-31 11:50:15] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 193.194.107.2
+)
+
+[2025-12-31 11:50:15] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Брагин Денис
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => Букач Олег
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Бухтеева Ангелина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0350
+            [NAME] => Воротинцева Анастасия
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Данильченко Антон
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Довлатов Егор
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Еднак Назар
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Ивашко Евгений
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => Колесник Ирина
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Компричевська Таня
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Корпан Анжелика
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Кушнир Андрей
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0315
+            [NAME] => Ломака Дмитро
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Мамай Вероніка
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Назарчук Алина
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0318
+            [NAME] => Попова Анна
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Резанов Александр
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Розколодько Марина
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 192
+            [NAME] => Смишляк Денис
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Тихонюк Дарина Анатоліївна
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Федащин Артур
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => Фортуна Дмитрий
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Черняк Владислав
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 11:50:38] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 193.194.107.2
+)
+
+[2025-12-31 11:50:38] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Брагин Денис
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => Букач Олег
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Бухтеева Ангелина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0350
+            [NAME] => Воротинцева Анастасия
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Данильченко Антон
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Довлатов Егор
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Еднак Назар
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Ивашко Евгений
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => Колесник Ирина
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Компричевська Таня
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Корпан Анжелика
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Кушнир Андрей
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0315
+            [NAME] => Ломака Дмитро
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Мамай Вероніка
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Назарчук Алина
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0318
+            [NAME] => Попова Анна
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Резанов Александр
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Розколодько Марина
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 192
+            [NAME] => Смишляк Денис
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Тихонюк Дарина Анатоліївна
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Федащин Артур
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => Фортуна Дмитрий
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Черняк Владислав
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 12:07:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.158.212.173
+)
+
+[2025-12-31 12:07:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => -
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0303
+            [NAME] => -
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => -
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => -
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => -
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0317
+            [NAME] => -
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0320
+            [NAME] => -
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => -
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => -
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Афанасьев Радион
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Баранников Артем
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Божкова Світлана
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Борисюк Богдан
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Вороновська Анастасія
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0714
+            [NAME] => Герасименко Татьяна
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Граждан Світлана
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0314
+            [NAME] => Диденко Алексей
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Драба Анастасия
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0112
+            [NAME] => Егоров Александр
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Иванчик Руслан
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Козак Віктор
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Костенко Тамара
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0815
+            [NAME] => Красовський Ілля
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0330
+            [NAME] => Лещишак Анастасія
+        )
+
+    [28] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Мірко Анна
+        )
+
+    [29] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Маляр Микола
+        )
+
+    [30] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Мельник Назар
+        )
+
+    [31] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Мошенець Анна
+        )
+
+    [32] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Никитюк Никита
+        )
+
+    [33] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Новіцька Діана
+        )
+
+    [34] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0400
+            [NAME] => Ольга Ващук
+        )
+
+    [35] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Петренко Александр
+        )
+
+    [36] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Пономаренко Оксана
+        )
+
+    [37] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Потураєва Катя
+        )
+
+    [38] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0713
+            [NAME] => Романова Світлана
+        )
+
+    [39] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Трофименко Иван
+        )
+
+    [40] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0719
+            [NAME] => Хмарский Денис
+        )
+
+    [41] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Чередніченко Поліна
+        )
+
+    [42] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Чорнобай Дмитро
+        )
+
+    [43] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шанько Яна
+        )
+
+    [44] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0329
+            [NAME] => Шульга Стас
+        )
+
+    [45] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0401
+            [NAME] => Юлия Воєвода 
+        )
+
+    [46] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0309
+            [NAME] => ол
+        )
+
+    [47] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 12:11:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 12:25:52] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 193.194.107.2
+)
+
+[2025-12-31 12:25:52] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Брагин Денис
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => Букач Олег
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Бухтеева Ангелина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0350
+            [NAME] => Воротинцева Анастасия
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Данильченко Антон
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Довлатов Егор
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Еднак Назар
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Ивашко Евгений
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => Колесник Ирина
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Компричевська Таня
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Корпан Анжелика
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Кушнир Андрей
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0315
+            [NAME] => Ломака Дмитро
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Мамай Вероніка
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Назарчук Алина
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0318
+            [NAME] => Попова Анна
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Резанов Александр
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Розколодько Марина
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 192
+            [NAME] => Смишляк Денис
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Тихонюк Дарина Анатоліївна
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Федащин Артур
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => Фортуна Дмитрий
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Черняк Владислав
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 12:26:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 193.194.107.2
+)
+
+[2025-12-31 12:26:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Брагин Денис
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => Букач Олег
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Бухтеева Ангелина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0350
+            [NAME] => Воротинцева Анастасия
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Данильченко Антон
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Довлатов Егор
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Еднак Назар
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Ивашко Евгений
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => Колесник Ирина
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Компричевська Таня
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Корпан Анжелика
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Кушнир Андрей
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0315
+            [NAME] => Ломака Дмитро
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Мамай Вероніка
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Назарчук Алина
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0318
+            [NAME] => Попова Анна
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Резанов Александр
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Розколодько Марина
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 192
+            [NAME] => Смишляк Денис
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Тихонюк Дарина Анатоліївна
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Федащин Артур
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => Фортуна Дмитрий
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Черняк Владислав
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 12:34:54] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11589 
+and u.club=(select id from spr_clubs where ip_club="193.194.107.2") limit 1
+[2025-12-31 12:34:54] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2025-12-31 12:34:54] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 11589
+    [command] => get_ind_history
+)
+
+[2025-12-31 12:34:54] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=193.194.107.2
+[2025-12-31 12:35:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11589 
+and u.club=(select id from spr_clubs where ip_club="193.194.107.2") limit 1
+[2025-12-31 12:35:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 12:35:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 11589
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 12:35:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=193.194.107.2
+[2025-12-31 12:35:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/my_zapis.php:104) 
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 775024
+            [TIME_FROM] => 10:00
+            [TIME_TO] => 11:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 775645
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Йога
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [2] => Array
+        (
+            [KOD] => 775852
+            [TIME_FROM] => 18:00
+            [TIME_TO] => 19:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур Kids
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [3] => Array
+        (
+            [KOD] => 775231
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Паркур
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [4] => Array
+        (
+            [KOD] => 776059
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [5] => Array
+        (
+            [KOD] => 776266
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 5
+            [TOV_NAME] => Cycle
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [6] => Array
+        (
+            [KOD] => 775438
+            [TIME_FROM] => 19:00
+            [TIME_TO] => 20:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [7] => Array
+        (
+            [KOD] => 774817
+            [TIME_FROM] => 20:00
+            [TIME_TO] => 21:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => Stretching
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 775024
+    [TIME_FROM] => 10:00
+    [TIME_TO] => 11:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 775645
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Йога
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 775852
+    [TIME_FROM] => 18:00
+    [TIME_TO] => 19:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур Kids
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 775231
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Паркур
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 776059
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 776266
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 5
+    [TOV_NAME] => Cycle
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 775438
+    [TIME_FROM] => 19:00
+    [TIME_TO] => 20:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 774817
+    [TIME_FROM] => 20:00
+    [TIME_TO] => 21:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => Stretching
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 798015
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 798170
+            [TIME_FROM] => 14:00
+            [TIME_TO] => 15:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2025-12-31 12:54:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798015
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:54:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798170
+    [TIME_FROM] => 14:00
+    [TIME_TO] => 15:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:55:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Array
+(
+    [0] => Array
+        (
+            [KOD] => 798015
+            [TIME_FROM] => 09:00
+            [TIME_TO] => 10:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => CrossActivity
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+    [1] => Array
+        (
+            [KOD] => 798170
+            [TIME_FROM] => 14:00
+            [TIME_TO] => 15:00               
+            [CLIENTS_CNT] => 0
+            [TOV_NAME] => FitnessMix
+            [ACC] => 0
+            [CNTTRAN] => 0
+            [CNTTRANRESERV] => 0
+        )
+
+)
+
+[2025-12-31 12:55:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798015
+    [TIME_FROM] => 09:00
+    [TIME_TO] => 10:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => CrossActivity
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 12:55:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:61) Array
+(
+    [KOD] => 798170
+    [TIME_FROM] => 14:00
+    [TIME_TO] => 15:00               
+    [CLIENTS_CNT] => 0
+    [TOV_NAME] => FitnessMix
+    [ACC] => 0
+    [CNTTRAN] => 0
+    [CNTTRANRESERV] => 0
+)
+
+[2025-12-31 13:10:43] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11871 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 13:10:43] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 13:10:43] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 11871
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 13:10:43] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=212.26.139.90
+[2025-12-31 13:10:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11871 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 13:10:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2025-12-31 13:10:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 11871
+    [command] => get_ind_history
+)
+
+[2025-12-31 13:10:47] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=212.26.139.90
+[2025-12-31 13:10:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=11871 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 13:10:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:17) hist_grp
+[2025-12-31 13:10:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 11871
+    [command] => get_grp_history
+)
+
+[2025-12-31 13:10:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:109) ip=212.26.139.90
+[2025-12-31 13:31:05] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 13:31:09] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.12.2025
+    [date_to] => 31.12.2025
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 007989
+)
+
+[2025-12-31 13:31:52] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 13:32:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 01.12.2025
+    [date_to] => 31.12.2025
+    [ip_club] => 212.26.139.90
+    [podr] => all
+    [sotr] => 007989
+)
+
+[2025-12-31 13:34:17] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 212.26.139.90
+)
+
+[2025-12-31 13:34:18] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03341
+            [NAME] => Герасименко Оксана
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Дубошей Дарина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Йова Катерина
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03354
+            [NAME] => Колесник Богдан
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2564
+            [NAME] => Кулаковський Сергій
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Лазаренко Ліна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 2452
+            [NAME] => Лешковят Наталія
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Мамедова Ельнара
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03336
+            [NAME] => Мельниченко Надія
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 007989
+            [NAME] => Підгурська Влада
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03337
+            [NAME] => Погорєлов Євгеній
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03589
+            [NAME] => Присняк Владислав
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03352
+            [NAME] => Рибак Роман
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0334
+            [NAME] => Самусенко Альона
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03339
+            [NAME] => Стрілець Данило
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Сунгатов Михайло
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Худоба Ігор
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 03342
+            [NAME] => Шматко Ярослав
+        )
+
+)
+
+[2025-12-31 13:52:41] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 13:52:51] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 31.12.2025
+    [date_to] => 31.12.2025
+    [ip_club] => 212.26.139.90
+    [podr] => pt
+    [sotr] => 03336
+)
+
+[2025-12-31 13:57:03] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/ajax_get_tren.php:35) Нет связи с сервером
+[2025-12-31 14:03:34] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 193.194.107.2
+)
+
+[2025-12-31 14:03:34] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Брагин Денис
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0323
+            [NAME] => Букач Олег
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0103
+            [NAME] => Бухтеева Ангелина
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0350
+            [NAME] => Воротинцева Анастасия
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Данильченко Антон
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0301
+            [NAME] => Довлатов Егор
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0331
+            [NAME] => Еднак Назар
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0328
+            [NAME] => Ивашко Евгений
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0307
+            [NAME] => Колесник Ирина
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0319
+            [NAME] => Компричевська Таня
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Корпан Анжелика
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Кушнир Андрей
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0315
+            [NAME] => Ломака Дмитро
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Мамай Вероніка
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0324
+            [NAME] => Назарчук Алина
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0318
+            [NAME] => Попова Анна
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Резанов Александр
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0333
+            [NAME] => Розколодько Марина
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 192
+            [NAME] => Смишляк Денис
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Тихонюк Дарина Анатоліївна
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Федащин Артур
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0305
+            [NAME] => Фортуна Дмитрий
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0321
+            [NAME] => Черняк Владислав
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 14:05:20] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+)
+
+[2025-12-31 14:05:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/reports/report_pers_detal.php:22) Array
+(
+    [ajax_method] => 2
+    [action] => report_pers_detal
+    [action_report] => report_view
+    [admin] => 5
+    [date_from] => 31.12.2025
+    [date_to] => 31.12.2025
+    [ip_club] => 193.194.107.2
+    [podr] => pt
+    [sotr] => 0350
+)
+
+[2025-12-31 15:46:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.151.119.180
+)
+
+[2025-12-31 15:46:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Андрияш Анна
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0903
+            [NAME] => Антонова Аліса
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Аштема Александр
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0399
+            [NAME] => Біліч Лариса
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Вєтрова Катя
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Виноградов Александр
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Войтюк Мар'яна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Гармаш Владимир
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Дворніков Дмитро 
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Демченко Александра
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Дубинчук Наталья
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Елецкая Светлана
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Колесник Богдан
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Оруджева Юлія
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Остафи Денис
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Проломов Данил
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Романовская Наталья
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Самусенко Алена
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Солянов Владислав
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Тищенко Ольга
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Фесенко Ира
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0103
+            [NAME] => Шевелько Руслан
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шевчук Вікторія
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 15:51:07] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1311318445"
+and u.club=4 limit 1
+[2025-12-31 15:51:07] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 13389
+    [chatadmin] => 7382441954
+    [who_user_write] => 1311318445
+    [chatid] => 1311318445
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 15:52:27] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1311318445"
+and u.club=4 limit 1
+[2025-12-31 15:52:27] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 13389
+    [chatadmin] => 7382441954
+    [who_user_write] => 1311318445
+    [chatid] => 1311318445
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 15:53:56] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1311318445"
+and u.club=4 limit 1
+[2025-12-31 15:53:56] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 13389
+    [chatadmin] => 7382441954
+    [who_user_write] => 1311318445
+    [chatid] => 1311318445
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 15:55:03] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1311318445"
+and u.club=4 limit 1
+[2025-12-31 15:55:03] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 13389
+    [chatadmin] => 7382441954
+    [who_user_write] => 1311318445
+    [chatid] => 1311318445
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 15:56:17] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1311318445"
+and u.club=4 limit 1
+[2025-12-31 15:56:17] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [admin] => 1
+    [who_user_write] => 7382441954
+    [chatid] => 1311318445
+)
+
+[2025-12-31 16:00:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=15012 
+and u.club=(select id from spr_clubs where ip_club="178.158.212.173") limit 1
+[2025-12-31 16:00:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2025-12-31 16:00:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 15012
+    [command] => get_ind_history
+)
+
+[2025-12-31 16:00:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=178.158.212.173
+[2025-12-31 16:01:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13547 
+and u.club=(select id from spr_clubs where ip_club="178.151.119.180") limit 1
+[2025-12-31 16:01:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 16:01:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13547
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 16:01:01] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=178.151.119.180
+[2025-12-31 16:07:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13151 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 16:07:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 16:07:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13151
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 16:07:06] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=212.26.139.90
+[2025-12-31 16:07:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13151 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 16:07:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:17) hist_grp
+[2025-12-31 16:07:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 13151
+    [command] => get_ind_history
+)
+
+[2025-12-31 16:07:24] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ind.php:109) ip=212.26.139.90
+[2025-12-31 16:21:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.151.119.180
+)
+
+[2025-12-31 16:21:33] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Андрияш Анна
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0903
+            [NAME] => Антонова Аліса
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Аштема Александр
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0399
+            [NAME] => Біліч Лариса
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Вєтрова Катя
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Виноградов Александр
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Войтюк Мар'яна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Гармаш Владимир
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Дворніков Дмитро 
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Демченко Александра
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Дубинчук Наталья
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Елецкая Светлана
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Колесник Богдан
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Оруджева Юлія
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Остафи Денис
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Проломов Данил
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Романовская Наталья
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Самусенко Алена
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Солянов Владислав
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Тищенко Ольга
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Фесенко Ира
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0103
+            [NAME] => Шевелько Руслан
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шевчук Вікторія
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 16:34:41] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1169717563"
+and u.club=4 limit 1
+[2025-12-31 16:34:41] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 11992
+    [chatadmin] => 7382441954
+    [who_user_write] => 1169717563
+    [chatid] => 1169717563
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 16:36:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1169717563"
+and u.club=4 limit 1
+[2025-12-31 16:36:30] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [admin] => 1
+    [who_user_write] => 7382441954
+    [chatid] => 1169717563
+)
+
+[2025-12-31 16:36:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.151.119.180
+)
+
+[2025-12-31 16:36:50] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Array
+(
+    [0] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0707
+            [NAME] => Андрияш Анна
+        )
+
+    [1] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0903
+            [NAME] => Антонова Аліса
+        )
+
+    [2] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0302
+            [NAME] => Аштема Александр
+        )
+
+    [3] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0399
+            [NAME] => Біліч Лариса
+        )
+
+    [4] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0316
+            [NAME] => Вєтрова Катя
+        )
+
+    [5] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0708
+            [NAME] => Виноградов Александр
+        )
+
+    [6] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0402
+            [NAME] => Войтюк Мар'яна
+        )
+
+    [7] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0327
+            [NAME] => Гармаш Владимир
+        )
+
+    [8] => Array
+        (
+            [ROLE] => Главний бухгалтер
+            [ID] => 0902
+            [NAME] => Глав. Бух.
+        )
+
+    [9] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0718
+            [NAME] => Дворніков Дмитро 
+        )
+
+    [10] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0101
+            [NAME] => Дежурный
+        )
+
+    [11] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0104
+            [NAME] => Демченко Александра
+        )
+
+    [12] => Array
+        (
+            [ROLE] => Администратор фитнеса
+            [ID] => 0102
+            [NAME] => Дубинчук Наталья
+        )
+
+    [13] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0304
+            [NAME] => Елецкая Светлана
+        )
+
+    [14] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0308
+            [NAME] => Колесник Богдан
+        )
+
+    [15] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0312
+            [NAME] => Крыжановский Павел
+        )
+
+    [16] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0313
+            [NAME] => Кукурудзяк Руслан
+        )
+
+    [17] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0325
+            [NAME] => Оруджева Юлія
+        )
+
+    [18] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0710
+            [NAME] => Остафи Денис
+        )
+
+    [19] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0715
+            [NAME] => Проломов Данил
+        )
+
+    [20] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0311
+            [NAME] => Романовская Наталья
+        )
+
+    [21] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0717
+            [NAME] => Самусенко Алена
+        )
+
+    [22] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0711
+            [NAME] => Солянов Владислав
+        )
+
+    [23] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0326
+            [NAME] => Тищенко Ольга
+        )
+
+    [24] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0310
+            [NAME] => Фесенко Ира
+        )
+
+    [25] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0103
+            [NAME] => Шевелько Руслан
+        )
+
+    [26] => Array
+        (
+            [ROLE] => Тренер
+            [ID] => 0712
+            [NAME] => Шевчук Вікторія
+        )
+
+    [27] => Array
+        (
+            [ROLE] => Головний адміністратор
+            [ID] => 0901
+            [NAME] => системный
+        )
+
+)
+
+[2025-12-31 16:48:57] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:29) SELECT a.name FROM `spr_acc` a, spr_users u 
+WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.chat_id="1169717563"
+and u.club=4 limit 1
+[2025-12-31 16:48:57] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/chart.php:30) Array
+(
+    [action] => chart
+    [club] => 4
+    [acc] => 11992
+    [chatadmin] => 7382441954
+    [who_user_write] => 1169717563
+    [chatid] => 1169717563
+    [ip_club] => 212.26.139.90
+)
+
+[2025-12-31 18:31:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:17) Array
+(
+    [action] => select_sotr
+    [club] => -
+    [club_ip] => 178.158.212.173
+)
+
+[2025-12-31 18:31:42] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/select_sotr.php:27) Нет связи с сервером
+[2025-12-31 22:59:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=12188 
+and u.club=(select id from spr_clubs where ip_club="193.194.107.2") limit 1
+[2025-12-31 22:59:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:17) hist_grp
+[2025-12-31 22:59:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 12188
+    [command] => get_grp_history
+)
+
+[2025-12-31 22:59:39] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:109) ip=193.194.107.2
+[2025-12-31 23:03:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:12) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=13396 
+and u.club=(select id from spr_clubs where ip_club="212.26.139.90") limit 1
+[2025-12-31 23:03:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:13) hist_ost_poslug
+[2025-12-31 23:03:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:104) Array
+(
+    [acc] => 13396
+    [command] => GET_OST_POSLUG_ACC
+)
+
+[2025-12-31 23:03:45] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_ost_poslug.php:105) ip=212.26.139.90
+[2025-12-31 23:17:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:16) SELECT a.name FROM `spr_acc` a, spr_users u WHERE u.active_account=a.acc and u.chat_id=a.chat_id and a.acc=12188 
+and u.club=(select id from spr_clubs where ip_club="193.194.107.2") limit 1
+[2025-12-31 23:17:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:17) hist_grp
+[2025-12-31 23:17:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:108) Array
+(
+    [dbeg] => 01.10.2025
+    [dend] => today
+    [acc] => 12188
+    [command] => get_grp_history
+)
+
+[2025-12-31 23:17:59] [INFO] (/home3/redbarbe/public_html/telegram/webapps/action/hist_grp.php:109) ip=193.194.107.2

@@ -1,0 +1,14 @@
+[2026-08-03 18:45:41] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[2026-08-03 18:45:46] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Trying to access array offset on null
+[2026-08-03 18:45:46] [ERROR] (D:\laragon\www\bot_red_220426\func\error_func.php:41) [chat_id: -][phone: -] Uncaught Exception: Undefined constant "HOST_SOCKET"
+D:laragonwwwbot_red_220426funcfunc.php:9
+#0 D:laragonwwwbot_red_220426webappsactionselect_sotr.php(26): send_data_b52(Array, NULL)
+#1 D:laragonwwwbot_red_220426webappsweb_action.php(26): select_sotr->init()
+#2 D:laragonwwwbot_red_220426webappsweb.php(52): WebActionModule->init()
+#3 {main}
+[2026-08-03 15:49:38] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\select_sotr.php:17) Array
+(
+    [action] => select_sotr
+)
+
+[2026-08-03 18:50:14] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated

@@ -1,0 +1,148 @@
+[2026-08-10 20:03:45] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:80) [chat_id: 536912870][phone: ] __JSON__:{
+    "update_id": 99093607,
+    "message": {
+        "message_id": 53,
+        "from": {
+            "id": 536912870,
+            "is_bot": false,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 536912870,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "type": "private"
+        },
+        "date": 1786381429,
+        "text": "3"
+    }
+}
+[2026-08-10 20:03:45] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] $Command=
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] actWork
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] SystemClass::$cntAccounts
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] 2
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":536912870,"text":"Чим я можу Вам допомогти? Натисніть необхідну кнопку знизу!","parse_mode":"html","reply_markup":"{"keyboard":[[{"text":"\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0442\u0440\u0435\u043d\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udcc5"},{"text":"\u041c\u043e\u0457 \u0437\u0430\u043f\u0438\u0441\u0438 \ud83d\udcc5"}],[{"text":"\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \ud83c\udd98 ","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=contacts"}},{"text":"\u0417\u0432\u043e\u0440\u043e\u0442\u043d\u0456\u0439 \u0437\u0432\u2019\u044f\u0437\u043e\u043a \/ \u0432\u0456\u0434\u0433\u0443\u043a \ud83c\udd98"},{"text":"\u0412\u0430\u043a\u0430\u043d\u0441\u0456\u0457","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=vacancy&chatid=536912870"}}],[{"text":"\u0417\u043d\u0430\u0439\u0442\u0438 \u043a\u043b\u0456\u0454\u043d\u0442\u0430 \u2139","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=work_acc&admin=1"}},{"text":"\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udc6e"},{"text":"\u0417\u0432\u0456\u0442\u0438 \ud83d\udcca","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=reports&admin=1"}}]],"one_time_keyboard":false,"resize_keyboard":true}"}
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":54,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":536912870,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"Neo_basil","type":"private"},"date":1786381430,"text":"u0427u0438u043c u044f u043cu043eu0436u0443 u0412u0430u043c u0434u043eu043fu043eu043cu043eu0433u0442u0438? u041du0430u0442u0438u0441u043du0456u0442u044c u043du0435u043eu0431u0445u0456u0434u043du0443 u043au043du043eu043fu043au0443 u0437u043du0438u0437u0443!"}}
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:83) [chat_id: 536912870][phone: 0681245640] $resultReturn
+[2026-08-10 20:03:46] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:84) [chat_id: 536912870][phone: 0681245640] 
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:80) [chat_id: 536912870][phone: ] __JSON__:{
+    "form": {
+        "vacancy_id": "1071",
+        "fio": "Василь Смик",
+        "instagram": "",
+        "comment": "",
+        "about": "тренер від бога",
+        "personal_data_agree": "1"
+    },
+    "action": "add_vacancy_resume",
+    "user_id": "536912870",
+    "message": {
+        "text": "/add_vacancy_resume",
+        "chat": {
+            "id": "536912870"
+        }
+    }
+}
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] $Command=add_vacancy_resume
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":"-1002615734939","text":"Від Василь Смик телефон 0681245640 надійшло нове резюме на вакансію Тренер. Локація: Харківська (Вербицького 1Г)","parse_mode":"html"}
+[2026-08-10 20:08:52] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:80) [chat_id: 536912870][phone: ] __JSON__:{
+    "update_id": 99093608,
+    "message": {
+        "message_id": 55,
+        "from": {
+            "id": 536912870,
+            "is_bot": false,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 536912870,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "type": "private"
+        },
+        "date": 1786381985,
+        "text": "Зворотній зв’язок / відгук 🆘"
+    }
+}
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] $Command=Зворотній зв’язок / відгук 
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] callback
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":536912870,"text":"Оберіть варіант:","parse_mode":"html","reply_markup":"{"inline_keyboard":[[{"text":"\u041f\u043e\u0447\u0430\u0442\u0438 \u0447\u0430\u0442 \u0437 \u0430\u0434\u043c\u0456\u043d\u043e\u043c \u043a\u043b\u0443\u0431\u0443","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=chart&club=2&acc=13618&chatadmin=5615960344&who_user_write=536912870&chatid=536912870&ip_club=178.151.119.180"}}],[{"text":"\u0417\u0430\u043b\u0438\u0448\u0438\u0442\u0438 \u0432\u0456\u0434\u0433\u0443\u043a","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=vidguk&club=2&acc=13618&ip_club=178.151.119.180"}}]]}"}
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":56,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":536912870,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"Neo_basil","type":"private"},"date":1786381986,"text":"u041eu0431u0435u0440u0456u0442u044c u0432u0430u0440u0456u0430u043du0442:","reply_markup":{"inline_keyboard":[[{"text":"u041fu043eu0447u0430u0442u0438 u0447u0430u0442 u0437 u0430u0434u043cu0456u043du043eu043c u043au043bu0443u0431u0443","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=chart&club=2&acc=13618&chatadmin=5615960344&who_user_write=536912870&chatid=536912870&ip_club=178.151.119.180"}}],[{"text":"u0417u0430u043bu0438u0448u0438u0442u0438 u0432u0456u0434u0433u0443u043a","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=vidguk&club=2&acc=13618&ip_club=178.151.119.180"}}]]}}}
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:83) [chat_id: 536912870][phone: 0681245640] $resultReturn
+[2026-08-10 20:13:02] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:84) [chat_id: 536912870][phone: 0681245640] 
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:80) [chat_id: 536912870][phone: ] __JSON__:{
+    "form": {
+        "club": "2",
+        "rating": "5",
+        "message": "тест"
+    },
+    "action": "add_vidguk",
+    "user_id": "536912870",
+    "user_first_name": "Василий",
+    "user_username": "Neo_basil",
+    "message": {
+        "text": "/add_vidguk",
+        "chat": {
+            "id": "536912870"
+        }
+    }
+}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] $Command=add_vidguk
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] add_vidguk
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] __JSON__:{
+    "club": "2",
+    "rating": "5",
+    "message": "тест"
+}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] SystemClass::$cntAccounts
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] 2
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":"536912870","text":"Ви успішно відправили відгук про клуб! Дякуємо Вам за відвертість","parse_mode":"html","reply_markup":"{"keyboard":[[{"text":"\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0442\u0440\u0435\u043d\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udcc5"},{"text":"\u041c\u043e\u0457 \u0437\u0430\u043f\u0438\u0441\u0438 \ud83d\udcc5"}],[{"text":"\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \ud83c\udd98 ","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=contacts"}},{"text":"\u0417\u0432\u043e\u0440\u043e\u0442\u043d\u0456\u0439 \u0437\u0432\u2019\u044f\u0437\u043e\u043a \/ \u0432\u0456\u0434\u0433\u0443\u043a \ud83c\udd98"},{"text":"\u0412\u0430\u043a\u0430\u043d\u0441\u0456\u0457","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=vacancy&chatid=536912870"}}],[{"text":"\u0417\u043d\u0430\u0439\u0442\u0438 \u043a\u043b\u0456\u0454\u043d\u0442\u0430 \u2139","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=work_acc&admin=1"}},{"text":"\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udc6e"},{"text":"\u0417\u0432\u0456\u0442\u0438 \ud83d\udcca","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=reports&admin=1"}}]],"one_time_keyboard":false,"resize_keyboard":true}"}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":57,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":536912870,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"Neo_basil","type":"private"},"date":1786381993,"text":"u0412u0438 u0443u0441u043fu0456u0448u043du043e u0432u0456u0434u043fu0440u0430u0432u0438u043bu0438 u0432u0456u0434u0433u0443u043a u043fu0440u043e u043au043bu0443u0431! u0414u044fu043au0443u0454u043cu043e u0412u0430u043c u0437u0430 u0432u0456u0434u0432u0435u0440u0442u0456u0441u0442u044c"}}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":"-1002615734939","text":"Клієнт Какора  Назар Богданович  телефон: 0681245640 rn                    залишив відгук про клуб "REDBARBELL на Лісовій"!rn                    Оцінка: 5 - Чудовоrn                    Відгук: "тест"rn                    ","parse_mode":"html"}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[2026-08-10 20:13:09] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":"5615960344","text":"Клієнт Какора  Назар Богданович  телефон: 0681245640 rn                    залишив відгук про клуб "REDBARBELL на Лісовій"!rn                    Оцінка: 5 - Чудовоrn                    Відгук: "тест"rn                    ","parse_mode":"html","reply_markup":"{"inline_keyboard":[[{"text":"\u0427\u0410\u0422 \u0417 \u041a\u041b\u0406\u0404\u041d\u0422\u041e\u041c","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=chart&club=2&admin=1&who_user_write=5615960344&chatid=536912870"}}]]}"}
+[2026-08-10 20:13:10] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":58,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":5615960344,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"basil_best","type":"private"},"date":1786381993,"text":"u041au043bu0456u0454u043du0442 u041au0430u043au043eu0440u0430  u041du0430u0437u0430u0440 u0411u043eu0433u0434u0430u043du043eu0432u0438u0447  u0442u0435u043bu0435u0444u043eu043d: 0681245640 n                    u0437u0430u043bu0438u0448u0438u0432 u0432u0456u0434u0433u0443u043a u043fu0440u043e u043au043bu0443u0431 "REDBARBELL u043du0430 u041bu0456u0441u043eu0432u0456u0439"!n                    u041eu0446u0456u043du043au0430: 5 - u0427u0443u0434u043eu0432u043en                    u0412u0456u0434u0433u0443u043a: "u0442u0435u0441u0442"","reply_markup":{"inline_keyboard":[[{"text":"u0427u0410u0422 u0417 u041au041bu0406u0404u041du0422u041eu041c","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=chart&club=2&admin=1&who_user_write=5615960344&chatid=536912870"}}]]}}}
+[2026-08-10 20:13:10] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:83) [chat_id: 536912870][phone: 0681245640] $resultReturn
+[2026-08-10 20:13:10] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:84) [chat_id: 536912870][phone: 0681245640] 
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:80) [chat_id: 536912870][phone: ] __JSON__:{
+    "update_id": 99093609,
+    "message": {
+        "message_id": 59,
+        "from": {
+            "id": 536912870,
+            "is_bot": false,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 536912870,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "type": "private"
+        },
+        "date": 1786382466,
+        "text": "Налаштування 👮"
+    }
+}
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] $Command=Налаштування 
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:243) [chat_id: 536912870][phone: 0681245640] nastr
+[2026-08-10 20:21:03] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:109) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":536912870,"text":"Оберіть меню налаштувань:","parse_mode":"html","reply_markup":"{"inline_keyboard":[[{"text":"\u0421\u043f\u0456\u0432\u0440\u043e\u0431\u0456\u0442\u043d\u0438\u043a\u0438","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=spr_sotr"}}],[{"text":"\u041a\u043b\u0443\u0431\u0438","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=spr_clubs"}}],[{"text":"\u0412\u0430\u043a\u0430\u043d\u0441\u0456\u0457","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=vacancy_resumes"}}]]}"}
+[2026-08-10 20:21:04] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:120) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":60,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":536912870,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"Neo_basil","type":"private"},"date":1786382467,"text":"u041eu0431u0435u0440u0456u0442u044c u043cu0435u043du044e u043du0430u043bu0430u0448u0442u0443u0432u0430u043du044c:","reply_markup":{"inline_keyboard":[[{"text":"u0421u043fu0456u0432u0440u043eu0431u0456u0442u043du0438u043au0438","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=spr_sotr"}}],[{"text":"u041au043bu0443u0431u0438","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=spr_clubs"}}],[{"text":"u0412u0430u043au0430u043du0441u0456u0457","web_app":{"url":"https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=vacancy_resumes"}}]]}}}
+[2026-08-10 20:21:04] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:83) [chat_id: 536912870][phone: 0681245640] $resultReturn
+[2026-08-10 20:21:04] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:84) [chat_id: 536912870][phone: 0681245640] 

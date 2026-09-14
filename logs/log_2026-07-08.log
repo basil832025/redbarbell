@@ -1,0 +1,50 @@
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:75) [chat_id: 536912870][phone: ] __JSON__:{
+    "update_id": 99093604,
+    "message": {
+        "message_id": 47,
+        "from": {
+            "id": 536912870,
+            "is_bot": false,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 536912870,
+            "first_name": "Василий",
+            "username": "Neo_basil",
+            "type": "private"
+        },
+        "date": 1783531695,
+        "text": "1"
+    }
+}
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:21) [chat_id: 536912870][phone: ] 🚀 Init ActionModule
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\class\actionmodule.php:30) [chat_id: 536912870][phone: 0681245640] ▶ Запуск ActionModule::init()
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:235) [chat_id: 536912870][phone: 0681245640] $Command=
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:235) [chat_id: 536912870][phone: 0681245640] actWork
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:235) [chat_id: 536912870][phone: 0681245640] SystemClass::$cntAccounts
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:235) [chat_id: 536912870][phone: 0681245640] 2
+[2026-07-08 20:28:15] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:104) [chat_id: 536912870][phone: 0681245640] 📤 Отправка сообщения Telegram: {"chat_id":536912870,"text":"Чим я можу Вам допомогти? Натисніть необхідну кнопку знизу!","parse_mode":"html","reply_markup":"{"keyboard":[[{"text":"\u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0442\u0440\u0435\u043d\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udcc5"},{"text":"\u041c\u043e\u0457 \u0437\u0430\u043f\u0438\u0441\u0438 \ud83d\udcc5"}],[{"text":"\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \ud83c\udd98 ","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=contacts"}},{"text":"\u0417\u0432\u043e\u0440\u043e\u0442\u043d\u0456\u0439 \u0437\u0432\u2019\u044f\u0437\u043e\u043a \/ \u0432\u0456\u0434\u0433\u0443\u043a \ud83c\udd98"}],[{"text":"\u0417\u043d\u0430\u0439\u0442\u0438 \u043a\u043b\u0456\u0454\u043d\u0442\u0430 \u2139","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=work_acc&admin=1"}},{"text":"\u041d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \ud83d\udc6e"},{"text":"\u0417\u0432\u0456\u0442\u0438 \ud83d\udcca","web_app":{"url":"https:\/\/braeden-inkiest-insistingly.ngrok-free.dev\/webapps\/web.php?action=reports&admin=1"}}]],"one_time_keyboard":false,"resize_keyboard":true}"}
+[2026-07-08 20:28:16] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:115) [chat_id: 536912870][phone: 0681245640] 📤 Telegram response: {"ok":true,"result":{"message_id":48,"from":{"id":8648117136,"is_bot":true,"first_name":"u0442u0435u0441u0442 rebarbell","username":"test_redbarbell_bot"},"chat":{"id":536912870,"first_name":"u0412u0430u0441u0438u043bu0438u0439","username":"Neo_basil","type":"private"},"date":1783531696,"text":"u0427u0438u043c u044f u043cu043eu0436u0443 u0412u0430u043c u0434u043eu043fu043eu043cu043eu0433u0442u0438? u041du0430u0442u0438u0441u043du0456u0442u044c u043du0435u043eu0431u0445u0456u0434u043du0443 u043au043du043eu043fu043au0443 u0437u043du0438u0437u0443!"}}
+[2026-07-08 20:28:16] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:78) [chat_id: 536912870][phone: 0681245640] $resultReturn
+[2026-07-08 20:28:16] [INFO] (D:\laragon\www\bot_red_220426\class\systemclass.php:79) [chat_id: 536912870][phone: 0681245640] 
+[2026-07-08 20:31:22] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:13) [chat_id: -][phone: -] reports1
+[2026-07-08 20:31:22] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:14) [chat_id: -][phone: -] __JSON__:{
+    "action": "reports",
+    "admin": "1"
+}
+[2026-07-08 20:31:22] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:52) [chat_id: -][phone: -] https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=report_pers_itog&ip_club=&admin=1&sotr=
+[2026-07-08 20:33:43] [INFO] (D:\laragon\www\bot_red_220426\func\func.php:235) [chat_id: -][phone: -] $ip=178.151.119.180 $club=-
+[2026-07-08 20:39:01] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:13) [chat_id: -][phone: -] reports1
+[2026-07-08 20:39:01] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:14) [chat_id: -][phone: -] __JSON__:{
+    "action": "reports",
+    "admin": "1"
+}
+[2026-07-08 20:39:01] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:52) [chat_id: -][phone: -] https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=report_pers_itog&ip_club=&admin=1&sotr=
+[2026-07-08 20:46:35] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:13) [chat_id: -][phone: -] reports1
+[2026-07-08 20:46:35] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:14) [chat_id: -][phone: -] __JSON__:{
+    "action": "reports",
+    "admin": "1"
+}
+[2026-07-08 20:46:35] [INFO] (D:\laragon\www\bot_red_220426\webapps\action\reports.php:52) [chat_id: -][phone: -] https://braeden-inkiest-insistingly.ngrok-free.dev/webapps/web.php?action=report_pers_itog&ip_club=&admin=1&sotr=

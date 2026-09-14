@@ -1,0 +1,252 @@
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:51:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:51:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:53:02] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:53:02] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:07] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:55:07] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 20:55:42] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 20:55:42] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:01:29] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 21:01:29] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SOTR_NAME"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "KLIENT_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "DAT"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PODR_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "TOV_NAME"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "CNT"
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PRICE"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUMMA"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "SUM_PREDOPL"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+[2026-07-08 21:02:53] [WARNING] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] Undefined array key "PHONE"
+[2026-07-08 21:02:53] [NOTICE] (D:\laragon\www\bot_red_220426\func\error_func.php:28) [chat_id: -][phone: -] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
