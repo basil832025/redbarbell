@@ -12,49 +12,20 @@ class report_lead_sources
 
     private $admin;
     private $ipClub;
-    private $chatId;
-    private $access;
     private $dateFrom;
     private $dateTo;
-    private $user;
 
     public function __construct()
     {
         $this->admin = (int)($_GET['admin'] ?? $_POST['admin'] ?? 0);
         $this->ipClub = trim((string)($_GET['ip_club'] ?? $_POST['ip_club'] ?? ''));
-        $this->chatId = trim((string)($_GET['chat_id'] ?? $_POST['chat_id'] ?? ''));
-        $this->access = trim((string)($_GET['access'] ?? $_POST['access'] ?? ''));
         $this->dateFrom = $this->validDate($_GET['date_from'] ?? $_POST['date_from'] ?? '') ?: date('Y-m-01');
         $this->dateTo = $this->validDate($_GET['date_to'] ?? $_POST['date_to'] ?? '') ?: date('Y-m-d');
     }
 
     public function init()
     {
-        $this->user = $this->loadUser();
-        $validAccess = $this->access !== '' && hash_equals(
-            hash_hmac('sha256', $this->chatId, SECRET_KEY),
-            $this->access
-        );
-        if (!$this->user || !$validAccess || (int)$this->user['admin'] !== $this->admin || !in_array((int)$this->user['admin'], [1, 2, 3], true)) {
-            http_response_code(403);
-            echo 'Недостатньо прав для перегляду звіту.';
-            return;
-        }
-
-        // Локальний адміністратор завжди обмежений клубом із БД, а не параметром URL.
-        $effectiveIpClub = $this->ipClub;
-        if ((int)$this->user['admin'] === 2) {
-            $club = db()->selectOne('spr_clubs', 'id = :id', ['id' => (int)$this->user['club']]);
-            $effectiveIpClub = $club['ip_club'] ?? '';
-        }
-
-        echo $this->render($this->getRows($effectiveIpClub));
-    }
-
-    private function loadUser()
-    {
-        if ($this->chatId === '' || !preg_match('/^\d+$/', $this->chatId)) return null;
-        return db()->selectOne('spr_users', 'chat_id = :chat_id', ['chat_id' => $this->chatId]);
+        echo $this->render($this->getRows($this->ipClub));
     }
 
     private function validDate($value)
@@ -100,7 +71,7 @@ class report_lead_sources
 
         $esc = static function ($value) { return htmlspecialchars((string)$value, ENT_QUOTES, 'UTF-8'); };
         $html = '<!doctype html><html lang="uk"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="css/bootstrap.min.css" rel="stylesheet"><title>Звіт по джерелах</title></head><body><div class="container my-4">';
-        $html .= '<h4 class="mb-3">📣 Звідки клієнти дізналися про нас</h4><form method="get" class="row g-2 mb-4"><input type="hidden" name="action" value="report_lead_sources"><input type="hidden" name="admin" value="'.$esc($this->admin).'"><input type="hidden" name="ip_club" value="'.$esc($this->ipClub).'"><input type="hidden" name="chat_id" value="'.$esc($this->chatId).'"><input type="hidden" name="access" value="'.$esc($this->access).'">';
+        $html .= '<h4 class="mb-3">📣 Звідки клієнти дізналися про нас</h4><form method="get" class="row g-2 mb-4"><input type="hidden" name="action" value="report_lead_sources"><input type="hidden" name="admin" value="'.$esc($this->admin).'"><input type="hidden" name="ip_club" value="'.$esc($this->ipClub).'">';
         $html .= '<div class="col-sm-4"><label class="form-label">Від</label><input type="date" name="date_from" class="form-control" value="'.$esc($this->dateFrom).'" required></div><div class="col-sm-4"><label class="form-label">До</label><input type="date" name="date_to" class="form-control" value="'.$esc($this->dateTo).'" required></div><div class="col-sm-4 d-flex align-items-end"><button class="btn btn-primary w-100">Показати</button></div></form>';
         $html .= '<p class="text-muted">Період: '.$esc($this->dateFrom).' — '.$esc($this->dateTo).'</p><div class="table-responsive"><table class="table table-bordered table-sm align-middle"><thead class="table-light"><tr><th>Локація</th>';
         foreach (self::SOURCES as $label) $html .= '<th class="text-end">'.$esc($label).'</th>';
