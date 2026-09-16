@@ -17,9 +17,9 @@ class new_reg_user extends ActionModule
             $form = $this->arrDataAnswer['form'];
             slog('form_new_reg_user');
             slog($form);
-            $allowedLeadSources = ['nearby', 'social', 'city_ads', 'mall_radio'];
             $leadSource = $form['lead_source'] ?? '';
-            if (!in_array($leadSource, $allowedLeadSources, true)) {
+            // Джерело обов'язкове лише у повній анкеті нового клієнта.
+            if (!empty($form['surname']) && !in_array($leadSource, ['nearby', 'social', 'city_ads', 'mall_radio'], true)) {
                 header('Content-Type: application/json');
                 echo json_encode(['status' => 'error', 'mess' => 'Виберіть, звідки ви про нас дізналися.'], JSON_UNESCAPED_UNICODE);
                 exit;

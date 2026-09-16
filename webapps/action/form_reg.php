@@ -307,10 +307,9 @@ const postData = async (url = "", data = {}) => {
             $content_html.='<option  value="'.$club['id'].'">'.$club['name'].'</option>';
         }
         $content_html.='</select>
-    <div class="invalid-feedback">
-        Виберіть клуб.
-    </div>
-    
+     <div class="invalid-feedback">
+         Виберіть клуб.
+     </div>
 </div>
 </div>
 </form>
