@@ -101,6 +101,14 @@ class reports
       <a href="'.URL.'webapps/web.php?action=report_kassa&ip_club='.$ip_club.'&admin='.$this->admin.'" class="btn btn-outline-dark w-100 text-start">
         💰 Фінансовий огляд по клубах (звіт по касі)
       </a>
+            </div>';
+
+        if (in_array((int)$this->admin, [1, 2, 3], true))
+            $html .= '
+    <div class="col">
+      <a href="'.URL.'webapps/web.php?action=report_registered_clients&ip_club='.$ip_club.'&admin='.$this->admin.'" class="btn btn-outline-success w-100 text-start">
+        👥 Зареєстровані клієнти в боті
+      </a>
     </div>';
         if ($this->admin==1)
             $html .='
