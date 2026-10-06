@@ -62,6 +62,54 @@ class CronActionModule
             case 'predprodza3day':
                 $this->PREDPRODZA3DAY($repeat, $clubId);
                 break;
+
+            case 'webhookcheck':
+                $this->checkWebhook();
+                break;
+        }
+    }
+
+    /**
+     * Проверяет, что Telegram отправляет обновления напрямую на основной хостинг.
+     * Запускается из cron и восстанавливает webhook после случайной или чужой
+     * перенастройки. Не сбрасывает накопленные обновления пользователей.
+     */
+    protected function checkWebhook()
+    {
+        $expectedUrl = rtrim(URL2, '/') . '/bot.php';
+        $apiUrl = 'https://api.telegram.org/bot' . TG_TOKEN . '/';
+
+        $rawInfo = @file_get_contents($apiUrl . 'getWebhookInfo');
+        $webhookInfo = json_decode($rawInfo, true);
+
+        if (empty($webhookInfo['ok']) || empty($webhookInfo['result'])) {
+            sCron('webhookcheck: не удалось получить состояние webhook');
+            return;
+        }
+
+        $currentUrl = $webhookInfo['result']['url'] ?? '';
+        $allowedUpdates = $webhookInfo['result']['allowed_updates'] ?? [];
+        $hasRequiredUpdates = in_array('message', $allowedUpdates, true)
+            && in_array('callback_query', $allowedUpdates, true);
+
+        if ($currentUrl === $expectedUrl && $hasRequiredUpdates) {
+            sCron('webhookcheck: webhook в норме');
+            return;
+        }
+
+        $params = http_build_query([
+            'url' => $expectedUrl,
+            'allowed_updates' => json_encode(['message', 'callback_query']),
+            'max_connections' => 20,
+            'drop_pending_updates' => 'false',
+        ]);
+        $rawResult = @file_get_contents($apiUrl . 'setWebhook?' . $params);
+        $setResult = json_decode($rawResult, true);
+
+        if (!empty($setResult['ok'])) {
+            sCron('webhookcheck: webhook восстановлен');
+        } else {
+            sCron('webhookcheck: не удалось восстановить webhook');
         }
     }
 

@@ -17,11 +17,12 @@ function send_data_b52( $post,$ip='') {
     }
  //   s($ip);
   //  s(json_encode($post));
+    $command = is_array($post) && !empty($post['command']) ? $post['command'] : 'unknown';
     $post = 'data='.json_encode($post); // Encode the data array into a JSON string
     $post = str_replace('&','@@==@@',$post); // замена для пост запроса спец сивола
     //  $authorization = "Authorization: Bearer ".$token; // Prepare the authorisation token
     $authorization = "Api_Key:".SECRET_KEY; // Prepare the authorisation token
-    curl_setopt($ch, CURLOPT_VERBOSE, true);
+    curl_setopt($ch, CURLOPT_VERBOSE, false);
     curl_setopt($ch, CURLOPT_URL, $ip);
     curl_setopt($ch, CURLOPT_HTTPHEADER, array( $authorization )); // Inject the token into the header
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -32,15 +33,45 @@ function send_data_b52( $post,$ip='') {
     $result = curl_exec($ch); // Execute the cURL statement
     $curl_errno = curl_errno($ch);
     $curl_error = curl_error($ch);
+    $http_code = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
     if($curl_errno > 0){
+        wLog(
+            'B52 request failed: command=' . $command
+            . '; curl_errno=' . $curl_errno
+            . '; http_code=' . $http_code
+            . '; curl_error=' . str_replace(array("\r", "\n"), ' ', $curl_error),
+            'error',
+            'error'
+        );
         curl_close($ch);
-        return array('ERROR','NO_INTERNET','Нет связи с сервером');
+        return array('ERROR', 'NO_INTERNET', 'Нет связи с сервером');
     }else
     {
         curl_close($ch); // Close the cURL connection
 
         $data_res = json_decode($result,1);
+        if (!is_array($data_res)) {
+            wLog(
+                'B52 returned an invalid response: command=' . $command
+                . '; http_code=' . $http_code
+                . '; response_length=' . strlen((string) $result)
+                . '; json_error=' . json_last_error_msg(),
+                'error',
+                'error'
+            );
+            return array('ERROR', 'INVALID_RESPONSE', 'Некоректна відповідь сервера');
+        }
         $status = !empty($data_res['status']) ?  $data_res['status'] : 'NO_STATUS';
+
+        if ($status === 'NO_STATUS') {
+            wLog(
+                'B52 response has no status: command=' . $command
+                . '; http_code=' . $http_code
+                . '; response_length=' . strlen((string) $result),
+                'error',
+                'error'
+            );
+        }
 
         if (!empty($data_res['dataCommand']) && $status=='ERROR' && !empty($data_res['dataCommand']['NO_RESULT']))
         {$type_result='NO_RESULT';$res='';}

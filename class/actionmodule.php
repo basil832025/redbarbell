@@ -664,6 +664,12 @@ file_put_contents($filePath, $generatorPNG->getBarcode($this->UserInfo['phone'],
             if ($status=='ERROR') { return array('ERROR',$type_result,$mess ); }
 
             $params=array('phone'=>$Phone,'command'=>'get_acc');
+            wLog(
+                'B52 get_acc request started: endpoint=' . (empty(self::$ip_club) ? 'default' : 'club')
+                . '; phone=' . $Phone,
+                'info',
+                'logs'
+            );
             list($status,$type_result,$ress)=send_data_b52($params,self::$ip_club);
 
             if ($status=='OK' && !empty($ress))
