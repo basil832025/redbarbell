@@ -336,14 +336,25 @@ $comandos = [
     $unixTime = time();
     $isNoWait = 1;
        if (self::$LastTimeOper>$unixTime  && (self::$LastOper['status']=='NO_INTERNET' || self::$LastOper['status']=='OFFLINE' )) $isNoWait=0;
+
+    // Під час реєстрації кеш попередньої помилки не повинен блокувати пошук акаунта.
+    if (self::$textMessage === '/new_reg_user') $isNoWait=1;
   // $phone=self::$UserInfo['phone'];
    $phone=SystemClass::$phone;
   // s('$phone='.$phone);
    if ($isNoWait) // если не прошло 3 минуты от отсутсиве интенета то пропускаем запрос на сервер ждем
    {
 
-  list($status,$type_result,$msg_res)= self::get_acc($phone);
-  }
+   list($status,$type_result,$msg_res)= self::get_acc($phone);
+   }
+   else {
+       wLog(
+           'B52 get_acc request skipped by cooldown: last_status=' . (self::$LastOper['status'] ?? '')
+           . '; last_time=' . (self::$LastOper['time_oper'] ?? ''),
+           'info',
+           'logs'
+       );
+   }
  // всегда возвращаються 3 параметра 1й параметр $status это статус 2й тип резульатат 3й - это массив данных иди комментарий если ошибка
     if ($status=='OK') 
     {
