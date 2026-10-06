@@ -143,7 +143,7 @@ function checkPhone($phone='')
     if (strlen($phone)!=10)  return array('ERROR','NO_10_CIFR','В данном номере не 10 цифр!');
     else
     {
-        $Acode_operrators=array('050','063','066','067','068','073','089','091','092','093','094','095','096','097','098','099');
+        $Acode_operrators=array('050','063','066','067','068','073','075','089','091','092','093','094','095','096','097','098','099');
         $code_op=substr($phone,0,3);
         if (!in_array($code_op,$Acode_operrators)) return array('ERROR','ERROR_CODE_PHONE','Веденный код ('.$code_op.') не является кодом мобильного оператора Украины');
         else
